@@ -19,3 +19,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chikatlarakesh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla)
+
+
+
