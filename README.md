@@ -10,7 +10,7 @@
 
 📫 How to reach me: www.linkedin.com/in/rakeshchikatla
 
-🏆 Achievements: Solved 100+ LeetCode problems, built personal projects using HTML, CSS, JavaScript, and C++.
+🏆 Achievements: Solved 100+ DSA problems, built personal projects using HTML, CSS, JavaScript, and C++.
 
 🔧 Skills: C++, JavaScript, React, Node.js, Git, and version control.
 
@@ -22,6 +22,11 @@
 ### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla)
+
+### LeetCode Stats
+
+<img src="http://localhost:3000/leetcode-stats" alt="LeetCode Stats" />
+
 
 
 
