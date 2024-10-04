@@ -15,3 +15,7 @@
 🔧 Skills: C++, JavaScript, React, Node.js, Git, and version control.
 
 ⚡ Fun fact: I enjoy challenging myself with coding competitions and learning new technologies to stay ahead in the game!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chikatlarakesh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chikatlarakesh&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
