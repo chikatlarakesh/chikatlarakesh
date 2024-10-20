@@ -13,6 +13,7 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-61DAFB?style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
