@@ -2,7 +2,7 @@
 
 Turning complex problems into simple solutions, one line of code at a time! 🚀
 
-- 🔭 Currently working on: [Edu Consultancy System]([link-to-project](https://github.com/chikatlarakesh/Edu-Consultancy-System))
+- 🔭 Currently working on: [Edu Consultancy System]((https://github.com/chikatlarakesh/Edu-Consultancy-System))
 - 🌱 Learning full-stack web development (JavaScript, React, Node.js)
 - 🏆 Completed: 50-day LeetCode Challenge
 - 💬 Ask me about: C++, DSA, Web Development
