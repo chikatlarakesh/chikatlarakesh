@@ -41,6 +41,9 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla?theme=dark&font=Fira%20Code&ext=heatmap)
 
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Rakesh_chikatla&theme=dark&border=border&animated=true)
+
+
 ## 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)
@@ -60,5 +63,6 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 🔗 Let's Connect:
 
+![](https://komarev.com/ghpvc/?username=chikatlarakesh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rakeshchikatla)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/chikatlarakesh)
