@@ -46,9 +46,8 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 📊 GitHub Stats:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikatlarakesh&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)
-<!-- Add GitHub stats with relevant icons -->
-<img src="https://github-readme-stats.vercel.app/api?username=chikatlarakesh&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 <h2>Achievements:</h2>
 <!-- You can include badges like LeetCode or Hackathon participation here -->
