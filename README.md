@@ -39,7 +39,7 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 📊 LeetCode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla?theme=dark&font=Fira%20Code&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla?theme=dark&font=Fira%20Code&ext=heatmap)       
 
 ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Rakesh_chikatla&theme=dark&border=border&animated=true)
 
