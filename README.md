@@ -34,7 +34,6 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 
 ---
-<h2>Most Used Languages:</h2>
 <!-- Add your most-used languages in GitHub -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatlarakesh&layout=compact&theme=radical" alt="Top Languages"/>
 
@@ -44,6 +43,7 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 📊 GitHub Stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)
 <!-- Add GitHub stats with relevant icons -->
 <img src="https://github-readme-stats.vercel.app/api?username=chikatlarakesh&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
