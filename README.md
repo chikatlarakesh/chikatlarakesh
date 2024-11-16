@@ -8,7 +8,6 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 - 💬 Ask me about: C++, DSA, Web Development
 - ⚡ Fun fact: Always up for a challenge, whether it’s a new problem on LeetCode or learning a new framework!
 - 📫 How to reach me: [rakeshchikatla12@gmail.com](mailto:rakeshchikatla12@gmail.com)
-
 ---
 
 ## 🛠 Tech Stack:
@@ -62,6 +61,7 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 🔗 Let's Connect:
 
+[![](https://visitcount.itsvg.in/api?id=chikatlarakesh&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=chikatlarakesh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rakeshchikatla)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/chikatlarakesh)
