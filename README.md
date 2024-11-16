@@ -61,7 +61,6 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ## 🔗 Let's Connect:
 
-[![](https://visitcount.itsvg.in/api?id=chikatlarakesh&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=chikatlarakesh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rakeshchikatla)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/chikatlarakesh)
