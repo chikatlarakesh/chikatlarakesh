@@ -5,7 +5,7 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 - 🔭 Currently working on: [Technical Term Simplifier](https://github.com/chikatlarakesh/Technical-Term-Simplifier.git) – a full-stack MERN + ML application that simplifies complex technical jargon into beginner-friendly language. 
 - 🌱 Learning full-stack web development with JavaScript, React, Node.js, and MongoDB. 
 - 🏆 Completed the 50-day LeetCode Challenge to strengthen my problem-solving skills.  
-- 💬 Ask me about C++, Data Structures & Algorithms, and Web Development. 
+- 💬 Ask me about C++, Data Structures & Algorithms, and Web Development.
 - ⚡ Fun fact: Always up for a challenge, whether it’s a new problem on LeetCode or learning a new framework!
 - 📫 How to reach me: [rakeshchikatla12@gmail.com](mailto:rakeshchikatla12@gmail.com)
 
